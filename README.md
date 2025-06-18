@@ -25,8 +25,8 @@ A simple chatbot frontend built with **React** that communicates with a backend 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/vipulji-dev/chatbot-app.git
-cd chatbot-app
+[git clone https://github.com/vipulji-dev/chatbot-app.git
+cd chatbot-app](https://github.com/Vipulji-dev/zerocode-fe-assingnment)
 
 2. Install Dependencies
 bas
